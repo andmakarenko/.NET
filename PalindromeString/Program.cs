@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -13,6 +13,7 @@ namespace PalindromeString
         {
             string str1 = "slaibhjiwefv";
             string str2 = "JbeYHjjhyeBJ";
+            string str3 = "ghjkjhg";
 
             if (!isPalindrome(str1))
             {
@@ -22,6 +23,11 @@ namespace PalindromeString
             if (isPalindrome(str2))
             {
                 Console.WriteLine("The second string is a palindrome.");
+            }
+
+            if (isPalindrome(str3))
+            {
+                Console.WriteLine("The third string is a palindrome.");
             }
 
             Console.Read();
