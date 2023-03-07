@@ -1,2 +1,2 @@
 # .NET
-set of small examples done in order to learn .net on basis of c#
+set of short examples done in order to learn .net on the basis of c#
