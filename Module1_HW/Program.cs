@@ -229,8 +229,8 @@ namespace Module1_HW
                 if (start%2 == 0)
                 {
                     Console.WriteLine(start);
-                    return;
                 }
+                return;
             }
 
             if (start > end)
