@@ -1,0 +1,16 @@
+D:\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.exe.config
+D:\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.exe
+D:\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.pdb
+D:\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.AssemblyReference.cache
+D:\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.exe
+D:\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.pdb
+D:\Programming\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.exe.config
+D:\Programming\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.exe
+D:\Programming\Visual Studio\C#.NET\Module1_HW\bin\Debug\Module1_HW.pdb
+D:\Programming\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.exe
+D:\Programming\Visual Studio\C#.NET\Module1_HW\obj\Debug\Module1_HW.pdb
